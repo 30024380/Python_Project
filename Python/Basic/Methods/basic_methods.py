@@ -1,4 +1,3 @@
-#
 # Name: Blake Jensen
 # Student ID: 30006830
 #
